@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello, I´m Carlos A Mora A,
+I work in the Telecommunications Sector in the LAN/WAN Network Support line.
+I am an IT network technologist living in Colombia, I am currently preparing to be a professional devnet.
 
-<!--
-**camora28/camora28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🦄 Semana 1
 
-Here are some ideas to get you started:
+1. Configuración del ambiente de desarrollo (Prework)
+2. Instalando Ubuntu en Windows 10/11
+3. Instalación de Git
+4. Configuración de las llaves SSH
+5. Creando una cuenta de GitHub
+6. Instalación de Node.js y Yarn
+7. Primeros pasos con VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estos son los 5 comandos
+
+| comando | Descripción |
+| --------| ----------- |
+|
+|
+|
+|
+|
+|
+|
+
+## Estos son mis alias más usados
+
+```jsx
+rm -r archivos
+```
+
+
+## Lenguajes que requiero aprender 
+
+* javascript
+* python
